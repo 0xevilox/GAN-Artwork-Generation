@@ -1,7 +1,5 @@
-# Artwork Generation Using Deep Convolutional GAN (DCGAN), Conditional GAN (CGAN), and Creative Adversarial Network (CAN)
-
-## Introduction
-This project focuses on generating realistic artwork paintings using three different Generative Adversarial Network (GAN) models: Deep Convolutional GAN (DCGAN), Conditional GAN (CGAN), and Creative Adversarial Network (CAN). The models are implemented in PyTorch and trained on the WikiArt dataset resized to 64x64 pixels. This documentation provides an overview of the architectures, training procedures, and results obtained from each model.
+## Problem Statement 
+Create a genAI system for generating diverse and realistic artwork based on user inputs, incorporating interactive customization features for personalized outputs.
 
 ## Dataset
 The WikiArt dataset consists of a diverse collection of artwork paintings across various styles and genres. The dataset is preprocessed and resized to 64x64 pixels to facilitate training with the GAN models.
